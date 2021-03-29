@@ -1,0 +1,2 @@
+ru/netology/sender/MessageSenderTest.java
+ ru.netology.sender.MessageSenderTest
