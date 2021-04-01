@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.geo.GeoServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-04-01T17:51:07" hostname="DESKTOP-35SSH83" time="0.015">
+  <properties/>
+  <testcase name="checkMoscowIp()" classname="ru.netology.geo.GeoServiceImplTest" time="0.01"/>
+  <testcase name="checkRussiaIp()" classname="ru.netology.geo.GeoServiceImplTest" time="0.0"/>
+  <testcase name="checkUsaIp()" classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <testcase name="checkLocalhostIp()" classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <testcase name="checkNewYorkIp()" classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

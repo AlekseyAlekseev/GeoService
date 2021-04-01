@@ -17,7 +17,7 @@ class MessageSenderTest {
     @Test
     void MessageSenderRussia() {
         final Location location = new Location("Moscow", RUSSIA, "Lenina", 15);
-        final Map<String, String> headers = new HashMap();
+        final Map<String, String> headers = new HashMap<>();
         final String ip = "172.112.27.16";
         final String expected = "Добро пожаловать";
 

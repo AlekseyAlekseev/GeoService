@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.sender.MessageSenderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-29T19:48:57" hostname="DESKTOP-35SSH83" time="0.3">
-  <properties/>
-  <testcase name="MessageSenderUSA()" classname="ru.netology.sender.MessageSenderTest" time="0.298"/>
-  <testcase name="MessageSenderRussia()" classname="ru.netology.sender.MessageSenderTest" time="0.001"/>
-  <system-out><![CDATA[РћС‚РїСЂР°РІР»РµРЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ: WelcomeРћС‚РїСЂР°РІР»РµРЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ: Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

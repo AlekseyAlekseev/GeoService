@@ -1,2 +1,6 @@
+ru/netology/i18n/LocalizationServiceImplTest.java
+ ru.netology.i18n.LocalizationServiceImplTest
+ru/netology/geo/GeoServiceImplTest.java
+ ru.netology.geo.GeoServiceImplTest
 ru/netology/sender/MessageSenderTest.java
  ru.netology.sender.MessageSenderTest
